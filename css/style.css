@@ -1,0 +1,150 @@
+h1{
+	display: block;
+}
+h5{
+	display: inline;
+}
+h4{
+	display: inline-block;
+}
+.box{
+	width: 100px;
+	height: 100px;
+}
+.red{
+	background-color: red;
+}
+.green{
+	background-color: yellow;
+	margin: 100px 50px 50px 50px;
+	/*top right bottom left*/
+	/*top right bottom left*/
+}
+.m1{
+	background-color: green;
+}
+.m2{
+	background-color: black;
+	padding: 100px 50px;/*top-bottom left-right*/
+}
+.m3{
+	background-color: blue;
+	border: 10px solid;
+	margin: 100px;
+	padding: 100px;
+	display: block;
+
+}
+.semantic{
+	background-color: red;
+	text-align: center;
+	color: white;
+}
+
+.non-semantic{
+	background-color: green;
+	color: white;
+	text-align: center;
+	
+}
+.layout{
+	background-color: green;
+	width: 100%;
+}
+.container{
+
+	border: 2px solid black;
+	width: 1000px;
+	margin: 0 auto; 
+}
+
+.header{
+	width: 100%;
+	border: 1px solid green;
+	
+}
+
+.logo{
+	border: 1px solid white;
+	width: 20%;
+	margin: 20px;
+	padding: 20px;
+	display: inline-block
+}
+.nav{
+	border: 1px solid white;
+	width: 65%;
+	margin: 20px 20px 0 0;
+	padding: 20px;
+	float: right;
+	display: inline-block; 
+}
+
+.banner{
+	border: 1px solid white;
+	margin: 20px;
+	padding: 200px;
+	margin-top: 0;
+}
+
+.banner h2{
+	text-align: center;
+}
+
+.about{
+	border: 1px solid white;
+	margin: 20px;
+	padding: 200px;
+	margin-top: 0;
+}
+
+.about h2{
+	text-align: center;
+}
+
+.service{
+	border: 1px solid white;
+	margin: 20px;
+	margin-top: 0;
+	overflow: hidden;
+}
+.service h2{
+	text-align: center;
+}
+.services{
+	border: 1px solid white;
+	width: 22%;
+	height: 200px;
+	float: left;
+	text-align: center;
+	margin: 50px 13px;
+}
+
+
+.testemonial h2{
+	text-align: center;
+}
+
+.contact{
+	border: 1px solid white;
+	margin: 20px;
+	padding: 200px;
+	margin-top: 0;
+}
+
+.contact h2{
+	text-align: center;
+}
+
+.footer{
+	border: 1px solid white;
+	margin: 20px;
+	padding: 200px;
+	margin-top: 0;
+}
+.footer h2{
+	text-align: center;
+}
+
+
+
